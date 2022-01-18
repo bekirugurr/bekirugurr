@@ -34,6 +34,18 @@
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="65" style="max-width: 100%;">   </a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="75" style="max-width: 100%;">   </a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="55" style="max-width: 100%;">   </a>
+
+## ⚙ Tools
+<a href="#"> <img src="https://camo.githubusercontent.com/013a82918fe7fbb976927e6e77870628f1d7f99171f94845cb6d1c51e7f6d3d6/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f76697375616c2d73747564696f2d323031392e706e67" alt="visual-studio" height="55" data-canonical-src="https://img.icons8.com/color/452/visual-studio-2019.png" style="max-width: 100%;"> </a>
+<a href="#"> <img src="https://camo.githubusercontent.com/1979a47caf89328f070a5a2b9d682a5b55763557cf8488e4521ac328370c02c3/68747470733a2f2f7777772e706e676974656d2e636f6d2f70696d67732f6d2f38302d3830303936385f7673636f64652d76697375616c2d73747564696f2d6c6f676f2d706e672d7472616e73706172656e742d706e672e706e67" alt="vs-code" height="55" data-canonical-src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" style="max-width: 100%;"> </a>
+<a href="#"> <img src="https://camo.githubusercontent.com/196ff8bcb1b5e4a0a7c47887d3889093f5eb9e3d27c4d0c96cc0ddcd91d71cf0/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f313338312f504e472f3531322f7375626c696d65746578745f39343836362e706e67" alt="sublime-text" height="55" data-canonical-src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" style="max-width: 100%;"> </a>
+<a href="#"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a>
+
+<a href="#"> <img src="https://camo.githubusercontent.com/bbb327d6ba7708520eaafd13396fed64d73bf5df5c4cdd0ba03cf0843f7a9340/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d69636f6e2e737667" alt="bash" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="max-width: 100%;"> </a>
+<a href="#"> <img src="https://camo.githubusercontent.com/df12cb598044a3f38efc1f45e3580558c324cf8789b79487125044eeebcc4dee/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667" alt="heroku" width="55" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="max-width: 100%;"> </a>
+<a href="https://postman.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="55" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"> </a>
+
+
 <!--
 **bekirugurr/bekirugurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
