@@ -30,9 +30,9 @@
 ## 💻 Backend
 <a href="#"> <img src="https://camo.githubusercontent.com/edbf0a154fb266da96cd1b5379eec350cff7ef072ba42ee003c713c321cb0ba8/68747470733a2f2f7777772e707974686f6e2e6f72672f7374617469632f696d672f707974686f6e2d6c6f676f2e706e67" alt="python" height="55" data-canonical-src="https://www.python.org/static/img/python-logo.png" style="max-width: 100%;"> </a>
 <a href="#"> <img src="https://camo.githubusercontent.com/985dacf7c531ee3cc64599c1b461aeba1ea161061a02081c8c4fc6308ee3bb8a/68747470733a2f2f7777772e646a616e676f70726f6a6563742e636f6d2f6d2f696d672f6c6f676f732f646a616e676f2d6c6f676f2d6e656761746976652e706e67" alt="django" height="55" data-canonical-src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" style="max-width: 100%;"> </a>
-<a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="65" style="max-width: 100%;"> </a>
-<a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="55" style="max-width: 100%;"> </a>
-<a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="55" style="max-width: 100%;"> </a>
+<a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="75" style="max-width: 100%;"> </a>
+<a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="65" style="max-width: 100%;"> </a>
+<a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="75" style="max-width: 100%;"> </a>
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="55" style="max-width: 100%;"> </a>
 <!--
 **bekirugurr/bekirugurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
