@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there. I'm Bekir 👋
+
+## I'm a Frontend Developer and Lifelong Learner!
+
+<hr/>
+
+
 
 <!--
 **bekirugurr/bekirugurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
