@@ -1,7 +1,12 @@
 ### Hi there. I'm Bekir 👋
 
 ## I'm a Frontend Developer and Lifelong Learner!
-
+🌱 I’m currently  improving skills on frontend development ((JavaScript | React | Python | Bootstrap | SASS )
+👯 I’m looking to collaborate with other developers.
+🥅 Contributes Open Source projects.
+✍ Believes in the importance of learning new things every day.
+💬 Ask me about Python, JavaScript, HTML, CSS, Bootstrap, React
+✨ Please look into my repos, don't avoid to give me advice.
 <hr/>
 
 
