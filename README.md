@@ -15,6 +15,8 @@
 <a href="https://www.linkedin.com/in/bekiru%C4%9Fur/"><img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/> </a> 
 <a href="mailto:bekirugur070@gmail.com"><img src="https://camo.githubusercontent.com/b010174bf1db503c35a1e9ca24ca85ccf11ba79f0db19e3ce7bab1a86e8b9616/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d6631663266362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d726564"> </a>
 
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/cfc51fa10161d5987d0f1a8f44721dafad98b96f9cacb1e900ed709822bb7209/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4879742d73"><img src="https://camo.githubusercontent.com/cfc51fa10161d5987d0f1a8f44721dafad98b96f9cacb1e900ed709822bb7209/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4879742d73" alt="bekirugurr" width="15%" data-canonical-src="https://komarev.com/ghpvc/?username=bekirugurr" style="max-width: 100%;"></a>
+
 ## 💻 Frontend
 
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55" style="max-width: 100%;">   </a>
