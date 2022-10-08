@@ -20,8 +20,10 @@
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55" style="max-width: 100%;">   </a>
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55" style="max-width: 100%;">   </a>
 <a href="#"><img src="https://camo.githubusercontent.com/d665435625c7b27b5616f4a59fd34de958c7ec69a7c15a73f1f7df9c4d29abc0/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323130382f504e472f3531322f6a6176617363726970745f69636f6e5f3133303930302e706e67" alt="js" width="55" height="55" data-canonical-src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" style="max-width: 100%;">   </a>
-<a href="#"><img src="https://camo.githubusercontent.com/d665435625c7b27b5616f4a59fd34de958c7ec69a7c15a73f1f7df9c4d29abc0/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323130382f504e472f3531322f6a6176617363726970745f69636f6e5f3133303930302e706e67" alt="js" width="55" height="55" data-canonical-src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" style="max-width: 100%;">   </a>
-<a href="#"><img src="[https://camo.githubusercontent.com/82b8bbebc766d815a5e7a1ce3b1b255bc9ed509521722c37c27a724e16dcbc63/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323431352f504e472f3531322f72656163745f6f726967696e616c5f776f72646d61726b5f6c6f676f5f69636f6e5f3134363337352e706e67](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20210506173343)" alt="typescript" width="55" height="55"  style="max-width: 100%;">   </a>
+
+
+<a href="#"><img src="https://camo.githubusercontent.com/82b8bbebc766d815a5e7a1ce3b1b255bc9ed509521722c37c27a724e16dcbc63/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323431352f504e472f3531322f72656163745f6f726967696e616c5f776f72646d61726b5f6c6f676f5f69636f6e5f3134363337352e706e67" alt="js" width="55" height="55"  style="max-width: 100%;">   </a>
+
 
 
 
