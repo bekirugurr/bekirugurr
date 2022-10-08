@@ -3,7 +3,7 @@
 
 ## I'm a Full Stack Developer and Lifelong Learner!
 <ul>
-<li>🌱 I’m currently  improving skills on frontend development ((JavaScript | React | Python | Django | Bootstrap | SASS )</li>
+<li>🌱 I’m currently  improving skills on frontend development ((JavaScript | React | Typescript | Tailwind | Next js | Bootstrap | SASS )</li>
 <li>👯 I’m looking to collaborate with other developers.</li>
 <li>✍ Believes in the importance of learning new things every day.</li>
 <li>💬 Ask me about Python, JavaScript, HTML, CSS, React, Django </li>
