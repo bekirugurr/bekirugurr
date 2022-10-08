@@ -20,13 +20,6 @@
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55" style="max-width: 100%;">   </a>
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55" style="max-width: 100%;">   </a>
 <a href="#"><img src="https://camo.githubusercontent.com/d665435625c7b27b5616f4a59fd34de958c7ec69a7c15a73f1f7df9c4d29abc0/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323130382f504e472f3531322f6a6176617363726970745f69636f6e5f3133303930302e706e67" alt="js" width="55" height="55" data-canonical-src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" style="max-width: 100%;">   </a>
-
-
-<a href="#"><img src="https://camo.githubusercontent.com/82b8bbebc766d815a5e7a1ce3b1b255bc9ed509521722c37c27a724e16dcbc63/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323431352f504e472f3531322f72656163745f6f726967696e616c5f776f72646d61726b5f6c6f676f5f69636f6e5f3134363337352e706e67" alt="js" width="55" height="55"  style="max-width: 100%;">   </a>
-
-
-
-
 <a href="#"><img src="https://camo.githubusercontent.com/82b8bbebc766d815a5e7a1ce3b1b255bc9ed509521722c37c27a724e16dcbc63/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323431352f504e472f3531322f72656163745f6f726967696e616c5f776f72646d61726b5f6c6f676f5f69636f6e5f3134363337352e706e67" alt="react" width="55" height="55" data-canonical-src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" style="max-width: 100%;">   </a>
 <a href="#"><img src="https://camo.githubusercontent.com/0e620098c29671ceebe9dd8e6ebb1cabc0d568eb0d7921f88a8558ed227f48d8/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34392f52656475782e706e67" alt="redux" width="55" height="55" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" style="max-width: 100%;">   </a>
 <a href="#"><img src="https://camo.githubusercontent.com/d7e3eaf17315d119bfec4fdc4c99399e5eb924542ba61a5ca21cc0a30f5e2c54/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323431352f504e472f3531322f626f6f7473747261705f706c61696e5f776f72646d61726b5f6c6f676f5f69636f6e5f3134363632302e706e67" alt="bootstrap" height="55" data-canonical-src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" style="max-width: 100%;">   </a>
