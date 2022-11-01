@@ -48,6 +48,8 @@
 <a href="https://code.visualstudio.com/"> <img src="https://user-images.githubusercontent.com/94041207/199347120-97323320-0047-45f3-864a-09a4c5e71d8c.png" alt="visual-studio" height="30" data-canonical-src="https://img.icons8.com/color/452/visual-studio-2019.png" style="max-width: 100%;"> </a>
 <a href="https://postman.com" rel="nofollow"> <img src="https://user-images.githubusercontent.com/94041207/199347146-3cab0782-fefc-42ad-8183-3dac2a31041a.png" alt="postman" height="30" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"> </a>
 <a href="https://www.heroku.com/"> <img src="https://user-images.githubusercontent.com/94041207/199347164-3f31eca4-6b7e-4c6d-bb1d-0959f5134e30.png" alt="heroku" height="30" data-canonical-src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="max-width: 100%;"> </a>
+<a href="https://www.netlify.com/" rel="nofollow"><img src="https://user-images.githubusercontent.com/94041207/199351002-7ba6ae47-4421-4201-aa78-910949a98760.png"  height="30" alt="Netlify" style="max-width: 100%;"></a>
+<a href="https://vercel.com/" rel="nofollow"><img src="https://user-images.githubusercontent.com/94041207/199351014-f893e89f-84ab-4207-96a5-a36f077f23f5.png"  height="30" alt="Vercel" style="max-width: 100%;"></a>
 <a href="https://www.figma.com/" rel="nofollow"><img src="https://user-images.githubusercontent.com/94041207/199347184-f5ff8490-ad77-4ac0-993c-d1a3e34f0d96.png"  height="30" alt="Figma" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="max-width: 100%;"></a>
 
 ## 📈 Statistics
