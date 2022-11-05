@@ -35,7 +35,7 @@
 <a href="https://www.postgresql.org/"><img src="https://user-images.githubusercontent.com/94041207/199492963-9315ee83-5be9-43b3-aa14-ebdd9a869aea.png" alt="PostgreSQL" height="28" style="max-width: 100%;"></a>
 <a href="https://firebase.google.com/" rel="nofollow"><img src="https://user-images.githubusercontent.com/94041207/199493030-f3227f28-6384-49ec-91e4-d07ccb8b8c93.png" height="28" alt="Firebase" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="max-width: 100%;"></a>
 
-## ⚙ Tool Stack 
+## 🧰 Tool Stack 
 <a href="https://git-scm.com/"> <img src="https://user-images.githubusercontent.com/94041207/199493491-d337ef5e-e833-460b-9b94-22b15c0ad2e8.png" alt="git" height="28" style="max-width: 100%;"> </a>
 <a href="https://github.com/"> <img src="https://user-images.githubusercontent.com/94041207/199493497-6f790c5b-e830-4fad-9dea-b5227cc618eb.png" alt="github" height="28" style="max-width: 100%;"> </a>
 <a href="https://code.visualstudio.com/"> <img src="https://user-images.githubusercontent.com/94041207/199493670-010a6e29-a036-4c86-9bbc-59840d1ab8d7.png" alt="visual-studio" height="28" data-canonical-src="https://img.icons8.com/color/452/visual-studio-2019.png" style="max-width: 100%;"> </a>
