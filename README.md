@@ -46,11 +46,11 @@
 <a href="https://www.figma.com/" rel="nofollow"><img src="https://user-images.githubusercontent.com/94041207/199493671-048b1a30-324d-4806-a7e6-fb9d9f89dc89.png"  height="24" alt="Figma" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="max-width: 100%;"></a>
 
 ## 🌟 My Projects
-> I put the term  <ins>Featured project 🚀</ins> to projects that are more important and worth checking out more  of study than others. If you don't have much time to review them all, you can look at them directly 👍
+> I put the term  <ins>Featured project 🚀</ins> to projects that are **more important** and **worth checking out** more  of study than others. If you don't have much time to review them all, <span style="color:red">__you can look at them directly__</span> 👍
 
 ### Frontend Projects
 <ul>
-<li>React Blog App<font color="red">*</font>  <a href="https://github.com/bekirugurr/react-redux-blog-app" rel="nofollow"> repo</a> <a href="https://react-redux-blogapp.vercel.app/" rel="nofollow"> live</a> <ins>Featured project 🚀</ins></li> 
+<li>React Blog App__<span style="color:red">*</span>__ <a href="https://github.com/bekirugurr/react-redux-blog-app" rel="nofollow"> repo</a> <a href="https://react-redux-blogapp.vercel.app/" rel="nofollow"> live</a> <ins>Featured project 🚀</ins></li> 
 <li>Popup Generator <a href="https://github.com/bekirugurr/popup-generator" rel="nofollow"> repo</a> <a href="https://popup-generator.vercel.app/" rel="nofollow"> live</a> <ins>Featured project 🚀</ins></li> 
 <li>React Movie App <a href="https://github.com/bekirugurr/firebase-movie-app" rel="nofollow"> repo</a> <a href="https://bugur-firebase-movie-search-app.netlify.app/" rel="nofollow"> live</a> <ins>Featured project 🚀</ins></li> 
 <li>React Personel Portfolio <a href="https://github.com/bekirugurr/portfolio" rel="nofollow"> repo</a> <a href="https://bekirugur.netlify.app/" rel="nofollow"> live</a></li> 
@@ -65,14 +65,14 @@
 ### Backend Projects
 <ul>
 <li>Flight Reservation API <a href="https://github.com/bekirugurr/flight-reservation-app-django" rel="nofollow"> repo</a> <ins>Featured project 🚀</ins></li> 
-<li>Blog API<font color="red">*</font> <a href="https://github.com/bekirugurr/blog-API-django" rel="nofollow"> repo</a> <ins>Featured project 🚀</ins></li> 
+<li>Blog API__<span style="color:red">*</span>__ <a href="https://github.com/bekirugurr/blog-API-django" rel="nofollow"> repo</a> <ins>Featured project 🚀</ins></li> 
 <li>Quiz API <a href="https://github.com/bekirugurr/quiz-app-django" rel="nofollow"> repo</a></li> 
-<li>Blog App With Django Templates<font color="red">**</font> <a href="https://github.com/bekirugurr/blog-app-django" rel="nofollow"> repo</a></li> 
-<li>To Do App With Django Templates<font color="red">**</font><a href="https://github.com/bekirugurr/todo-app-django" rel="nofollow"> repo</a> <a href="https://django-mytodo-app.herokuapp.com/" rel="nofollow"> live</a> </li> 
+<li>Blog App With Django Templates__<span style="color:red">**</span>__ <a href="https://github.com/bekirugurr/blog-app-django" rel="nofollow"> repo</a></li> 
+<li>To Do App With Django Templates__<span style="color:red">**</span>__<a href="https://github.com/bekirugurr/todo-app-django" rel="nofollow"> repo</a> <a href="https://django-mytodo-app.herokuapp.com/" rel="nofollow"> live</a> </li> 
 </ul>
-<font color="red">*</font>  : React Blog App is frontend side and Blog API is backend side of my Fullstack Blog App 
+__<span style="color:red">*</span>__  : React Blog App is frontend side and Blog API is backend side of my Fullstack Blog App 
 
-<font color="red">**</font> : This projects are Fullstack. Because for frontend django and for backend django templates are used
+__<span style="color:red">**</span>__ : This projects are Fullstack. Because for frontend django and for backend django templates are used
 
 ## 📈 Statistics
 <!--![](https://komarev.com/ghpvc/?username=bekirugurr) -->
