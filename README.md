@@ -50,7 +50,7 @@
 
 ### Frontend Projects
 <ul>
-<li>**React Blog App**      <a href="https://github.com/bekirugurr/react-redux-blog-app" rel="nofollow"> repo</a> <a href="https://react-redux-blogapp.vercel.app/" rel="nofollow"> live</a> <ins>Featured project 🚀</ins></li> 
+<li>__React Blog App__      <a href="https://github.com/bekirugurr/react-redux-blog-app" rel="nofollow"> repo</a> <a href="https://react-redux-blogapp.vercel.app/" rel="nofollow"> live</a> <ins>Featured project 🚀</ins></li> 
 <li>**Popup Generator** <a href="https://github.com/bekirugurr/popup-generator" rel="nofollow"> repo</a> <a href="https://popup-generator.vercel.app/" rel="nofollow"> live</a> <ins>Featured project 🚀</ins></li> 
 <li>**React Movie App** <a href="https://github.com/bekirugurr/firebase-movie-app" rel="nofollow"> repo</a> <a href="https://bugur-firebase-movie-search-app.netlify.app/" rel="nofollow"> live</a> <ins>Featured project 🚀</ins></li> 
 <li>**React Personel Portfolio** <a href="https://github.com/bekirugurr/portfolio" rel="nofollow"> repo</a> <a href="https://bekirugur.netlify.app/" rel="nofollow"> live</a></li> 
