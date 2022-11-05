@@ -1,18 +1,8 @@
 ### Hi there. I'm Bekir 👋
 <ul>
-<li>I am a Full Stack Developer from turkey</li>
+<li>I am a Full Stack Developer from Turkey</li>
 <li>This is <a href="https://bekirugur.netlify.app/" rel="nofollow">My Portfolio Website</a></li>
 </ul>
-
-## I'm a Full Stack Developer and Lifelong Learner!
-<ul>
-<li>🌱 I’m currently  improving skills on frontend development ((JavaScript | React | Typescript | Tailwind | Next js | Bootstrap | SASS )</li>
-<li>👯 I’m looking to collaborate with other developers.</li>
-<li>✍ Believes in the importance of learning new things every day.</li>
-<li>💬 Ask me about Python, JavaScript, HTML, CSS, React, Django </li>
-<li>✨ Please look into my repos, don't avoid to give me advice.</li>
-  </ul>
-<hr/>
 
 ## 👨👩 Social
 <a href="https://www.linkedin.com/in/bekiru%C4%9Fur/"><img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/> </a> 
@@ -56,32 +46,33 @@
 <a href="https://www.figma.com/" rel="nofollow"><img src="https://user-images.githubusercontent.com/94041207/199493671-048b1a30-324d-4806-a7e6-fb9d9f89dc89.png"  height="24" alt="Figma" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="max-width: 100%;"></a>
 
 ## 🌟 My Projects
-I put the term  <ins>🚀 Featured project 🚀</ins> to projects that are more important and worth checking out more  of study than others. If you don't have much time to review them all, you can look at them directly 👍
+> I put the term  <ins>Featured project 🚀</ins> to projects that are more important and worth checking out more  of study than others. If you don't have much time to review them all, you can look at them directly 👍
 
 ### Frontend Projects
 <ul>
-<li>React Blog App*  <a href="https://github.com/bekirugurr/react-redux-blog-app" rel="nofollow">🐛 repo</a> <a href="https://react-redux-blogapp.vercel.app/" rel="nofollow">🦋 live</a> <ins>🚀 Featured project 🚀</ins></li> 
-<li>Popup Generator <a href="https://github.com/bekirugurr/popup-generator" rel="nofollow">🐛 repo</a> <a href="https://popup-generator.vercel.app/" rel="nofollow">🦋 live</a> <ins>🚀 Featured project 🚀</ins></li> 
-<li>React Movie App <a href="https://github.com/bekirugurr/firebase-movie-app" rel="nofollow">🐛 repo</a> <a href="https://bugur-firebase-movie-search-app.netlify.app/" rel="nofollow">🦋 live</a> <ins>🚀 Featured project 🚀</ins></li> 
-<li>React Personel Portfolio <a href="https://github.com/bekirugurr/portfolio" rel="nofollow">🐛 repo</a> <a href="https://bekirugur.netlify.app/" rel="nofollow">🦋 live</a></li> 
-<li>React Todo App <a href="https://github.com/bekirugurr/React-Todo-App" rel="nofollow">🐛 repo</a> <a href="https://todo-bkr.netlify.app/" rel="nofollow">🦋 live</a></li> 
-<li>Checkout Page <a href="https://github.com/bekirugurr/Checkout-Page-2" rel="nofollow">🐛 repo</a> <a href="https://bugur-checkout.netlify.app/" rel="nofollow">🦋 live</a></li> 
-<li>Movie Ticket App <a href="https://github.com/bekirugurr/Movie-Seat-App" rel="nofollow">🐛 repo</a> <a href="https://bugur-movieseat-app.netlify.app/" rel="nofollow">🦋 live</a></li> 
-<li>Ios Calculator <a href="https://github.com/bekirugurr/Ios-Calculator" rel="nofollow">🐛 repo</a> <a href="https://bugur-ios-calculator.netlify.app/" rel="nofollow">🦋 live</a></li> 
-<li>Lottery Ticket App <a href="https://github.com/bekirugurr/Lucky-Numbers-Generator" rel="nofollow">🐛 repo</a> <a href="https://bekirugurr.github.io/Lucky-Numbers-Generator/" rel="nofollow">🦋 live</a></li> 
-<li>Find The Number Game App <a href="https://github.com/bekirugurr/Find-the-Number-Game" rel="nofollow">🐛 repo</a> <a href="https://bekirugurr.github.io/Find-the-Number-Game/" rel="nofollow">🦋 live</a></li> 
+<li>React Blog App<font color="red">*</font>  <a href="https://github.com/bekirugurr/react-redux-blog-app" rel="nofollow"> repo</a> <a href="https://react-redux-blogapp.vercel.app/" rel="nofollow"> live</a> <ins>Featured project 🚀</ins></li> 
+<li>Popup Generator <a href="https://github.com/bekirugurr/popup-generator" rel="nofollow"> repo</a> <a href="https://popup-generator.vercel.app/" rel="nofollow"> live</a> <ins>Featured project 🚀</ins></li> 
+<li>React Movie App <a href="https://github.com/bekirugurr/firebase-movie-app" rel="nofollow"> repo</a> <a href="https://bugur-firebase-movie-search-app.netlify.app/" rel="nofollow"> live</a> <ins>Featured project 🚀</ins></li> 
+<li>React Personel Portfolio <a href="https://github.com/bekirugurr/portfolio" rel="nofollow"> repo</a> <a href="https://bekirugur.netlify.app/" rel="nofollow"> live</a></li> 
+<li>React Todo App <a href="https://github.com/bekirugurr/React-Todo-App" rel="nofollow"> repo</a> <a href="https://todo-bkr.netlify.app/" rel="nofollow"> live</a></li> 
+<li>Checkout Page <a href="https://github.com/bekirugurr/Checkout-Page-2" rel="nofollow"> repo</a> <a href="https://bugur-checkout.netlify.app/" rel="nofollow"> live</a></li> 
+<li>Movie Ticket App <a href="https://github.com/bekirugurr/Movie-Seat-App" rel="nofollow"> repo</a> <a href="https://bugur-movieseat-app.netlify.app/" rel="nofollow"> live</a></li> 
+<li>Ios Calculator <a href="https://github.com/bekirugurr/Ios-Calculator" rel="nofollow"> repo</a> <a href="https://bugur-ios-calculator.netlify.app/" rel="nofollow"> live</a></li> 
+<li>Lottery Ticket App <a href="https://github.com/bekirugurr/Lucky-Numbers-Generator" rel="nofollow"> repo</a> <a href="https://bekirugurr.github.io/Lucky-Numbers-Generator/" rel="nofollow"> live</a></li> 
+<li>Find The Number Game App <a href="https://github.com/bekirugurr/Find-the-Number-Game" rel="nofollow"> repo</a> <a href="https://bekirugurr.github.io/Find-the-Number-Game/" rel="nofollow"> live</a></li> 
 </ul>
 
 ### Backend Projects
 <ul>
-<li>Flight Reservation API <a href="https://github.com/bekirugurr/flight-reservation-app-django" rel="nofollow">🐛 repo</a> <ins>🚀 Featured project 🚀</ins></li> 
-<li>Blog API* <a href="https://github.com/bekirugurr/blog-API-django" rel="nofollow">🐛 repo</a> <ins>🚀 Featured project 🚀</ins></li> 
-<li>Quiz API <a href="https://github.com/bekirugurr/quiz-app-django" rel="nofollow">🐛 repo</a></li> 
-<li>Blog App With Django Templates** <a href="https://github.com/bekirugurr/blog-app-django" rel="nofollow">🐛 repo</a></li> 
-<li>To Do App With Django Templates**<a href="https://github.com/bekirugurr/todo-app-django" rel="nofollow">🐛 repo</a> <a href="https://django-mytodo-app.herokuapp.com/" rel="nofollow">🦋 live</a> </li> 
+<li>Flight Reservation API <a href="https://github.com/bekirugurr/flight-reservation-app-django" rel="nofollow"> repo</a> <ins>Featured project 🚀</ins></li> 
+<li>Blog API<font color="red">*</font> <a href="https://github.com/bekirugurr/blog-API-django" rel="nofollow"> repo</a> <ins>Featured project 🚀</ins></li> 
+<li>Quiz API <a href="https://github.com/bekirugurr/quiz-app-django" rel="nofollow"> repo</a></li> 
+<li>Blog App With Django Templates<font color="red">**</font> <a href="https://github.com/bekirugurr/blog-app-django" rel="nofollow"> repo</a></li> 
+<li>To Do App With Django Templates<font color="red">**</font><a href="https://github.com/bekirugurr/todo-app-django" rel="nofollow"> repo</a> <a href="https://django-mytodo-app.herokuapp.com/" rel="nofollow"> live</a> </li> 
 </ul>
-*  : React Blog App is frontend side and Blog API is backend side of my Fullstack Blog App
-** : This projects are Fullstack. Because for frontend django and for backend django templates are used
+<font color="red">*</font>  : React Blog App is frontend side and Blog API is backend side of my Fullstack Blog App 
+
+<font color="red">**</font> : This projects are Fullstack. Because for frontend django and for backend django templates are used
 
 ## 📈 Statistics
 <!--![](https://komarev.com/ghpvc/?username=bekirugurr) -->
