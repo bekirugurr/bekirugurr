@@ -46,7 +46,7 @@
 <a href="https://www.figma.com/" rel="nofollow"><img src="https://user-images.githubusercontent.com/94041207/199493671-048b1a30-324d-4806-a7e6-fb9d9f89dc89.png"  height="28" alt="Figma" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="max-width: 100%;"></a>
 
 ## 🌟 My Projects
-> I put the term  <ins>Featured project 🚀</ins> to projects that are **more important** and **worth checking out** more  of study than others. If you don't have much time to review them all, <span style="color:red">**you can look at them directly**</span> 👍
+> I put the term  <ins>Featured project 🚀</ins> to projects that are **more important** and **worthier to review** than others. If you don't have much time to review them all, <span style="color:red">**you can look at them directly**</span> 👍
 
 ### Frontend Projects
 <ul>
